@@ -1,8 +1,8 @@
 <p align="center">
-    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/1.jpg' width=220>
-    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/2.jpg' width=220>
-    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/3.jpg' width=220>
-    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/4.jpg' width=220>
+    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/1.jpg' width=150>
+    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/2.jpg' width=150>
+    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/3.jpg' width=150>
+    <img src='https://github.com/PiRaMiDeON/RuinsOfAncientOlympus/blob/main/Imgs/4.jpg' width=150>
 </p>
 
 <p align="center">
